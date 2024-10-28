@@ -56,7 +56,7 @@
 <body>
 
 <header>
-    <h1>VICKY INSTITUTE OF ENGINEERING AND TECHNOLOGY</h1>
+    <h1>SANTHOSH INSTITUTE OF ENGINEERING AND TECHNOLOGY</h1>
     <p>For Admissions - contact: 8639457769 / 9440089335</p>
     <p>Prof. YMC Shekhar (Vice Principal) - 9440018657</p>
     <p>College Code: MVRG</p>
